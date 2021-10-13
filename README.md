@@ -2,4 +2,6 @@
 
 # Real Property Management Business Standards Comments Solicitation
 
-Insert content here about process to solicit feedback
+Here are instructions for how to provide comments, propose changes, etc. 
+
+Step 1 - Sign up for a Github account. No need to sign up for a unique GitHub account if you have one already.
