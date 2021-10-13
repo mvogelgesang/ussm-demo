@@ -1,4 +1,4 @@
-# Real Property Management Federal Integrated Business Framework (FIBF)
+# Real Propperty Management Federal Integrated Business Framework (FIBF)
 
 ## Table of Contents
 
