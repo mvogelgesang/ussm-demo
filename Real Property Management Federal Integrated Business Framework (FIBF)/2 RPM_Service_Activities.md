@@ -1,4 +1,4 @@
-# RPM Service Activities
+# RPM Services Activities
 
 - [RPM Service Activities](#rpm-service-activities)
   - [Legend](#legend)
